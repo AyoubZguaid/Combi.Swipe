@@ -1,0 +1,6 @@
+@Combi.Swipe_HostAddress = http://localhost:5067
+
+GET {{Combi.Swipe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
