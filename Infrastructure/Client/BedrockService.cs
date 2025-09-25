@@ -36,49 +36,49 @@ public class BedrockService : IBedrockService
 
     private string BuildPrompt(NextSelectionRequest request)
     {
-        //try
-        //{
-        //    var userId = request.UserId;
+        try
+        {
+            var userId = request.UserId;
 
-        //    var betHistory = File.ReadAllText(Path.Combine("Infrastructure", "CustomersProfiles", "bet_history_" + userId + ".json"));
+            var betHistory = File.ReadAllText(Path.Combine("Infrastructure", "CustomersProfiles", "bet_history_" + userId + ".json"));
 
-        //    string CustomerAffinityJsonContent = File.ReadAllText(Path.Combine("Infrastructure", "CustomersProfiles", "customer_affinity_final_dedup.json"));
+            string CustomerAffinityJsonContent = File.ReadAllText(Path.Combine("Infrastructure", "CustomersProfiles", "customer_affinity_final_dedup.json"));
 
-        //    var allCustomersAffinities = JsonSerializer.Deserialize<List<CustomerAffinityModel>>(CustomerAffinityJsonContent);
+            var allCustomersAffinities = JsonSerializer.Deserialize<List<CustomerAffinityModel>>(CustomerAffinityJsonContent);
 
-        //    var allCustomersAffinitiesDict = allCustomersAffinities.ToDictionary(x => x.CUSTOMER_ID);
+            var allCustomersAffinitiesDict = allCustomersAffinities.ToDictionary(x => x.CUSTOMER_ID);
 
-        //    var customerAffinity = allCustomersAffinitiesDict[userId];
+            var customerAffinity = allCustomersAffinitiesDict[userId];
 
-        //    string SelectionsJsonContent = File.ReadAllText(Path.Combine("Infrastructure", "Selections", "selections-formated 3.json"));
+            string SelectionsJsonContent = File.ReadAllText(Path.Combine("Infrastructure", "Selections", "selections-formated 3.json"));
 
-        //    List<SelectionModel> Selections = JsonSerializer.Deserialize<List<SelectionModel>>(SelectionsJsonContent);
+            List<SelectionModel> Selections = JsonSerializer.Deserialize<List<SelectionModel>>(SelectionsJsonContent);
 
-        //    List<SelectionModel> PossibleSelections = Selections.Where(x => x.MatchId == request.MatchId).ToList();
+            List<SelectionModel> PossibleSelections = Selections.Where(x => x.MatchId == request.MatchId).ToList();
 
-        //    string prompt = $"""
-        //        ## Input Data
+            string prompt = $"""
+                ## Input Data
 
-        //        ### Player Profile
-        //        ```json
-        //        {JsonSerializer.Serialize(customerAffinity)}
-        //        ```
+                ### Player Profile
+                ```json
+                {JsonSerializer.Serialize(customerAffinity)}
+                ```
 
-        //        ### Available Selections
-        //        ```json
-        //        {JsonSerializer.Serialize(PossibleSelections)}
-        //        ```
+                ### Available Selections
+                ```json
+                {JsonSerializer.Serialize(PossibleSelections)}
+                ```
 
-        //        ### Swip History
-        //        ```json
-        //        {betHistory}
-        //        ```
-        //        """;
+                ### Swip History
+                ```json
+                {betHistory}
+                ```
+                """;
 
-        //    return prompt;
-        //}
-        //catch (Exception ex)
-        //{
+            return prompt;
+        }
+        catch (Exception ex)
+        {
             var prompt = """
                 ## Input Data
 
@@ -335,7 +335,7 @@ public class BedrockService : IBedrockService
                 """;
 
             return prompt;
-        //}
+        }
 
     }
 
