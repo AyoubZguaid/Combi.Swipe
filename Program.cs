@@ -5,15 +5,6 @@ using Infrastructure.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-var awsSettings = builder.Configuration.GetSection("AWS").Get<AwsSettings>();
-builder.Services.AddSingleton(awsSettings);
-builder.Services.AddSingleton<IBedrockService, BedrockService>();
-builder.Services.AddScoped<ISelectionService, SelectionService>();
-
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
@@ -24,7 +15,19 @@ builder.Services.AddCors(options =>
     });
 });
 
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var awsSettings = builder.Configuration.GetSection("AWS").Get<AwsSettings>();
+builder.Services.AddSingleton(awsSettings);
+builder.Services.AddSingleton<IBedrockService, BedrockService>();
+builder.Services.AddScoped<ISelectionService, SelectionService>();
+
+
 var app = builder.Build();
+
+app.UseCors("AllowAll");
 
 if (app.Environment.IsDevelopment())
 {
