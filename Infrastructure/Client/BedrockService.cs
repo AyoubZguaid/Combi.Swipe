@@ -1,4 +1,6 @@
 ﻿using Amazon;
+using Amazon.BedrockAgentRuntime;
+using Amazon.BedrockAgentRuntime.Model;
 using Amazon.BedrockRuntime;
 using Amazon.BedrockRuntime.Model;
 using Amazon.Runtime;
@@ -6,7 +8,6 @@ using Combi.Swipe.Infrastructure.CustomersProfiles;
 using Combi.Swipe.Infrastructure.Selections;
 using Domain.Entities;
 using Infrastructure.Configuration;
-using System.Collections.Generic;
 using System.Text;
 using System.Text.Json;
 
@@ -14,71 +15,72 @@ namespace Infrastructure.Client;
 
 public class BedrockService : IBedrockService
 {
-    private readonly IAmazonBedrockRuntime _client;
-    private readonly string _modelId;
+    private readonly IAmazonBedrockAgentRuntime _client;
+    private readonly string _agentId;
+    private readonly string _agentAliasId;
+
+    private readonly JsonSerializerOptions _jsonOptions = new()
+    {
+        PropertyNameCaseInsensitive = true
+    };
 
     public BedrockService(AwsSettings settings)
     {
-        if (!string.IsNullOrEmpty(settings.AccessKey) && !string.IsNullOrEmpty(settings.SecretKey))
-        {
-            var creds = new BasicAWSCredentials(settings.AccessKey, settings.SecretKey);
-            _client = new AmazonBedrockRuntimeClient(creds, RegionEndpoint.GetBySystemName(settings.Region));
-        }
-        else
-        {
-            _client = new AmazonBedrockRuntimeClient(RegionEndpoint.GetBySystemName(settings.Region));
-        }
 
-        _modelId = settings.ModelId;
+        _client = new AmazonBedrockAgentRuntimeClient(RegionEndpoint.GetBySystemName(settings.Region));
+
+        _agentId = settings.AgentId ?? throw new ArgumentException("AWS:AgentId missing in config");
+        _agentAliasId = settings.AgentAliasId ?? throw new ArgumentException("AWS:AgentAliasId missing in config");
     }
+
 
     private string BuildPrompt(NextSelectionRequest request)
     {
-        try
-        {
-            var userId = request.UserId;
+        //try
+        //{
+        //    var userId = request.UserId;
 
-            var betHistory = File.ReadAllText(Path.Combine("Infrastructure", "CustomersProfiles", "bet_history_" + userId + ".json"));
+        //    var betHistory = File.ReadAllText(Path.Combine("Infrastructure", "CustomersProfiles", "bet_history_" + userId + ".json"));
 
-            string CustomerAffinityJsonContent = File.ReadAllText(Path.Combine("Infrastructure", "CustomersProfiles", "customer_affinity_final_dedup.json"));
+        //    string CustomerAffinityJsonContent = File.ReadAllText(Path.Combine("Infrastructure", "CustomersProfiles", "customer_affinity_final_dedup.json"));
 
-            var allCustomersAffinities = JsonSerializer.Deserialize<List<CustomerAffinityModel>>(CustomerAffinityJsonContent);
+        //    var allCustomersAffinities = JsonSerializer.Deserialize<List<CustomerAffinityModel>>(CustomerAffinityJsonContent);
 
-            var allCustomersAffinitiesDict = allCustomersAffinities.ToDictionary(x => x.CUSTOMER_ID);
+        //    var allCustomersAffinitiesDict = allCustomersAffinities.ToDictionary(x => x.CUSTOMER_ID);
 
-            var customerAffinity = allCustomersAffinitiesDict[userId];
+        //    var customerAffinity = allCustomersAffinitiesDict[userId];
 
-            string SelectionsJsonContent = File.ReadAllText(Path.Combine("Infrastructure", "Selections", "selections-formated 3.json"));
+        //    string SelectionsJsonContent = File.ReadAllText(Path.Combine("Infrastructure", "Selections", "selections-formated 3.json"));
 
-            List<SelectionModel> Selections = JsonSerializer.Deserialize<List<SelectionModel>>(SelectionsJsonContent);
+        //    List<SelectionModel> Selections = JsonSerializer.Deserialize<List<SelectionModel>>(SelectionsJsonContent);
 
-            List<SelectionModel> PossibleSelections = Selections.Where(x => x.MatchId == request.MatchId).ToList();
+        //    List<SelectionModel> PossibleSelections = Selections.Where(x => x.MatchId == request.MatchId).ToList();
 
-            string prompt = $"""
-                ## Input Data
+        //    string prompt = $"""
+        //        ## Input Data
 
-                ### Player Profile
-                ```json
-                {JsonSerializer.Serialize(customerAffinity)}
-                ```
+        //        ### Player Profile
+        //        ```json
+        //        {JsonSerializer.Serialize(customerAffinity)}
+        //        ```
 
-                ### Available Selections
-                ```json
-                {JsonSerializer.Serialize(PossibleSelections)}
-                ```
+        //        ### Available Selections
+        //        ```json
+        //        {JsonSerializer.Serialize(PossibleSelections)}
+        //        ```
 
-                ### Swip History
-                ```json
-                {betHistory}
-                ```
-                """;
+        //        ### Swip History
+        //        ```json
+        //        {betHistory}
+        //        ```
+        //        """;
 
-            return prompt;
-        }
-        catch (Exception ex)
-        {
+        //    return prompt;
+        //}
+        //catch (Exception ex)
+        //{
             var prompt = """
-                                ## Input Data
+                ## Input Data
 
 
                 ### Player Profile
@@ -293,7 +295,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     }
                   ]
-                ```
+                ```;
 
 
                 ### Swip History
@@ -330,11 +332,10 @@ public class BedrockService : IBedrockService
                     "accepted": true
                   }
                 ]
-                ```
                 """;
 
             return prompt;
-        }
+        //}
 
     }
 
@@ -342,29 +343,41 @@ public class BedrockService : IBedrockService
     {
         var prompt = BuildPrompt(request);
 
-        var modelRequest = new InvokeModelRequest
+        var invokeReq = new InvokeAgentRequest
         {
-            ModelId = _modelId,
-            ContentType = "application/json",
-            Accept = "application/json",
-            Body = new MemoryStream(Encoding.UTF8.GetBytes(
-                $"{{ \"prompt\": \"{prompt}\", \"max_tokens_to_sample\": 300 }}"
-            ))
+            AgentId = _agentId,
+            AgentAliasId = _agentAliasId,
+            SessionId = Guid.NewGuid().ToString(),
+            InputText = prompt
         };
 
-        var response = await _client.InvokeModelAsync(modelRequest);
+        var response = await _client.InvokeAgentAsync(invokeReq);
 
-        using var reader = new StreamReader(response.Body);
-        var body = await reader.ReadToEndAsync();
+        // Extract the response body from the completion stream
+        var responseBody = new StringBuilder();
+        
+        await foreach (var chunk in response.Completion)
+        {   
+            if (chunk is Amazon.BedrockAgentRuntime.Model.PayloadPart payloadPart)
+            {
+                var chunkText = Encoding.UTF8.GetString(payloadPart.Bytes.ToArray());
+                responseBody.Append(chunkText);
+            }
+        }
+
+        var body = responseBody.ToString();
 
         try
         {
-            return JsonSerializer.Deserialize<List<NextSelectionResponse>>(body)
+            return JsonSerializer.Deserialize<List<NextSelectionResponse>>(body, _jsonOptions)
                    ?? new List<NextSelectionResponse>();
         }
-        catch
+        catch (Exception ex)
         {
+            Console.WriteLine($"[BedrockService] JSON parse error: {ex.Message}");
+            Console.WriteLine(body);
             return new List<NextSelectionResponse>();
         }
     }
+
 }
