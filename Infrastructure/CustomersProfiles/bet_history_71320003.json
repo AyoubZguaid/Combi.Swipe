@@ -1,0 +1,44 @@
+[
+  {
+    "ID": 1,
+    "description": "Champions League | Feyenoord - Sparta Prague | Igor Paixão / A. H. Moussa",
+    "market_type": "Either Player to Score",
+    "odds": 1.8,
+    "accepted": true
+  },
+  {
+    "ID": 2,
+    "description": "Europa League | Ludogorets Razgrad - AZ | Ludogorets Razgrad",
+    "market_type": "Match Result",
+    "odds": 3.05,
+    "accepted": false
+  },
+  {
+    "ID": 3,
+    "description": "Champions League | Juventus - Manchester City | Erling Haaland or substitute",
+    "market_type": "Goalscorer (Supersub)",
+    "odds": 1.95,
+    "accepted": true
+  },
+  {
+    "ID": 4,
+    "description": "Champions League | Milan - Red Star Belgrade | Milan or Red Star Belgrade",
+    "market_type": "Double Chance",
+    "odds": 1.12,
+    "accepted": false
+  },
+  {
+    "ID": 5,
+    "description": "Champions League | Borussia Dortmund - FC Barcelona | Robert Lewandowski",
+    "market_type": "Goalscorer",
+    "odds": 1.73781472,
+    "accepted": true
+  },
+  {
+    "ID": 6,
+    "description": "Champions League | Arsenal - Monaco | Over 0.5",
+    "market_type": "Goal Total 0.5",
+    "odds": 1.02,
+    "accepted": false
+  }
+]

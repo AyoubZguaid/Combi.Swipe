@@ -1,0 +1,37 @@
+[
+  {
+    "ID": 1,
+    "description": "Champions League | Atletico Madrid - Slovan Bratislava | Over 2.5",
+    "market_type": "Goal Total 2.5",
+    "odds": 1.27,
+    "accepted": true
+  },
+  {
+    "ID": 2,
+    "description": "French Ligue 1 | Rennes - Angers | Rennes",
+    "market_type": "Match Result",
+    "odds": 1.56,
+    "accepted": false
+  },
+  {
+    "ID": 3,
+    "description": "Europa League | Olympiakos - Twente | Ayoub El Kaabi",
+    "market_type": "Goalscorer",
+    "odds": 2.05,
+    "accepted": true
+  },
+  {
+    "ID": 4,
+    "description": "Cypriot Division 1 | Anorthosis Famagusta - Omonia Aradippou | Anorthosis Famagusta",
+    "market_type": "Match Result",
+    "odds": 1.39,
+    "accepted": false
+  },
+  {
+    "ID": 5,
+    "description": "English Championship | Hull - Watford | Yes",
+    "market_type": "Both Teams to Score",
+    "odds": 1.68,
+    "accepted": true
+  }
+]
