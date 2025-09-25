@@ -24,8 +24,8 @@ public class CombiSwipeController : ControllerBase
     [ProducesResponseType(typeof(List<NextSelectionResponse>), 200)]
     public async Task<ActionResult<List<NextSelectionResponse>>> GetNextCombinedSelections([FromBody] NextSelectionRequest request)
     {
-        if (request == null || string.IsNullOrWhiteSpace(request.UserId))
-            return BadRequest("Invalid request payload.");
+        //if (request == null || string.IsNullOrWhiteSpace(request.UserId))
+        //    return BadRequest("Invalid request payload.");
 
         var result = await _selectionService.GetNextCombinedSelectionsAsync(request);
         return Ok(result);

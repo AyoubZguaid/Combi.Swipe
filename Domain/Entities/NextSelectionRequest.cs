@@ -2,8 +2,8 @@
 
 public class NextSelectionRequest
 {
-    public string UserId { get; set; } = string.Empty;
+    public long UserId { get; set; }
     public string SportCode { get; set; } = string.Empty;
-    public string MatchId { get; set; } = string.Empty;
+    public long MatchId { get; set; }
 }
 
