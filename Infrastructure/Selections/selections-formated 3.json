@@ -1,6 +1,6 @@
 [
   {
-    "SELECTION_ID": "641831799014065V2",
+    "SELECTION_ID": 641831799014065,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Igor Paixão / A. H. Moussa",
     "MARKET_ID": 641831798276098,
     "MARKET_NAME": "Either Player to Score",
@@ -9,7 +9,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976494321684V2",
+    "SELECTION_ID": 638976494321684,
     "SELECTION_DESCRIPTION": "Europa League | Ludogorets Razgrad - AZ | Ludogorets Razgrad",
     "MARKET_ID": 638976494309378,
     "MARKET_NAME": "Match Result",
@@ -18,7 +18,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641676457848832V2",
+    "SELECTION_ID": 641676457848832,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Erling Haaland or substitute",
     "MARKET_ID": 641669418631170,
     "MARKET_NAME": "Goalscorer (Supersub)",
@@ -27,7 +27,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380995440641V2",
+    "SELECTION_ID": 631380995440641,
     "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | Milan or Red Star Belgrade",
     "MARKET_ID": 631380995252224,
     "MARKET_NAME": "Double Chance",
@@ -36,7 +36,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639358410764378V2",
+    "SELECTION_ID": 639358410764378,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Robert Lewandowski",
     "MARKET_ID": 639358410739714,
     "MARKET_NAME": "Goalscorer",
@@ -45,7 +45,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381115920513V2",
+    "SELECTION_ID": 631381115920513,
     "SELECTION_DESCRIPTION": "Champions League | Arsenal - Monaco | Over 0.5",
     "MARKET_ID": 631381116010523,
     "MARKET_NAME": "Goal Total 0.5",
@@ -54,7 +54,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380983959559V2",
+    "SELECTION_ID": 631380983959559,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | FC Barcelona",
     "MARKET_ID": 631380984070146,
     "MARKET_NAME": "Match Result",
@@ -63,7 +63,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381114106134V2",
+    "SELECTION_ID": 631381114106134,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Yes",
     "MARKET_ID": 631381113995337,
     "MARKET_NAME": "Both Teams to Score",
@@ -72,7 +72,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631386436677713V2",
+    "SELECTION_ID": 631386436677713,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Over 0.5",
     "MARKET_ID": 631386435538957,
     "MARKET_NAME": "Goal Total 0.5 - home",
@@ -81,7 +81,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975950741515V2",
+    "SELECTION_ID": 638975950741515,
     "SELECTION_DESCRIPTION": "Europa League | Hoffenheim - FCSB | Hoffenheim",
     "MARKET_ID": 638975951056898,
     "MARKET_NAME": "Match Result",
@@ -90,7 +90,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976494321685V2",
+    "SELECTION_ID": 638976494321685,
     "SELECTION_DESCRIPTION": "Europa League | Ludogorets Razgrad - AZ | Draw",
     "MARKET_ID": 638976494309378,
     "MARKET_NAME": "Match Result",
@@ -99,7 +99,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "632071204950140V2",
+    "SELECTION_ID": 632071204950140,
     "SELECTION_DESCRIPTION": "Champions League | Atletico Madrid - Slovan Bratislava | Over 3.5",
     "MARKET_ID": 632071203803166,
     "MARKET_NAME": "Goal Total 3.5",
@@ -108,7 +108,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "633547404648454V2",
+    "SELECTION_ID": 633547404648454,
     "SELECTION_DESCRIPTION": "EFL Cup | Tottenham - Manchester United | Manchester United",
     "MARKET_ID": 633547404820482,
     "MARKET_NAME": "Match Result",
@@ -117,7 +117,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "633547404648452V2",
+    "SELECTION_ID": 633547404648452,
     "SELECTION_DESCRIPTION": "EFL Cup | Tottenham - Manchester United | Tottenham",
     "MARKET_ID": 633547404820482,
     "MARKET_NAME": "Match Result",
@@ -126,7 +126,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "634809535778950V2",
+    "SELECTION_ID": 634809535778950,
     "SELECTION_DESCRIPTION": "Australian A-League | Central Coast Mariners - Adelaide United FC | Yes",
     "MARKET_ID": 634809535815712,
     "MARKET_NAME": "Both Teams to Score",
@@ -135,7 +135,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381542785026V2",
+    "SELECTION_ID": 631381542785026,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Over 1.5",
     "MARKET_ID": 631381542862849,
     "MARKET_NAME": "Goal Total 1.5",
@@ -144,7 +144,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976407187474V2",
+    "SELECTION_ID": 638976407187474,
     "SELECTION_DESCRIPTION": "Europa Conference League | Dinamo Minsk - Larne | Dinamo Minsk",
     "MARKET_ID": 638976407195667,
     "MARKET_NAME": "Match Result",
@@ -153,7 +153,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380566749317V2",
+    "SELECTION_ID": 631380566749317,
     "SELECTION_DESCRIPTION": "Champions League | Benfica - Bologna | Over 1.5",
     "MARKET_ID": 631380565512221,
     "MARKET_NAME": "Goal Total 1.5",
@@ -162,7 +162,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381542785024V2",
+    "SELECTION_ID": 631381542785024,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Over 0.5",
     "MARKET_ID": 631381542862848,
     "MARKET_NAME": "Goal Total 0.5",
@@ -171,7 +171,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381415813122V2",
+    "SELECTION_ID": 631381415813122,
     "SELECTION_DESCRIPTION": "Champions League | Stuttgart - Young Boys | Over 1.5",
     "MARKET_ID": 631381415903233,
     "MARKET_NAME": "Goal Total 1.5",
@@ -180,7 +180,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380977598468V2",
+    "SELECTION_ID": 631380977598468,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Juventus or draw",
     "MARKET_ID": 631380976619522,
     "MARKET_NAME": "Double Chance",
@@ -189,7 +189,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976141987853V2",
+    "SELECTION_ID": 638976141987853,
     "SELECTION_DESCRIPTION": "Europa League | Olympiakos - Twente | Olympiakos",
     "MARKET_ID": 638976141582353,
     "MARKET_NAME": "Match Result",
@@ -198,7 +198,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976669433863V2",
+    "SELECTION_ID": 638976669433863,
     "SELECTION_DESCRIPTION": "Europa Conference League | Astana - Chelsea | Chelsea",
     "MARKET_ID": 638976669306882,
     "MARKET_NAME": "Match Result",
@@ -207,7 +207,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377197355030V2",
+    "SELECTION_ID": 631377197355030,
     "SELECTION_DESCRIPTION": "Champions League | RB Leipzig - Aston Villa | Aston Villa",
     "MARKET_ID": 631377197498372,
     "MARKET_NAME": "Match Result",
@@ -216,7 +216,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "642136636096518V2",
+    "SELECTION_ID": 642136636096518,
     "SELECTION_DESCRIPTION": "Israeli Premier League | Hapoel Beer Sheva - Ironi Kiryat Shmona | Hapoel Beer Sheva",
     "MARKET_ID": 642136635785218,
     "MARKET_NAME": "Match Result",
@@ -225,7 +225,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "642622433665024V2",
+    "SELECTION_ID": 642622433665024,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | E. Haaland buteur et victoire de Manchester City",
     "MARKET_ID": 642622433968128,
     "MARKET_NAME": "Bons Plans",
@@ -234,7 +234,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379120443396V2",
+    "SELECTION_ID": 631379120443396,
     "SELECTION_DESCRIPTION": "Champions League | Shakhtar Donetsk - Bayern Munich | Draw or Bayern Munich",
     "MARKET_ID": 631379120586756,
     "MARKET_NAME": "Double Chance",
@@ -243,7 +243,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "637513358557184V2",
+    "SELECTION_ID": 637513358557184,
     "SELECTION_DESCRIPTION": "Copa Argentina | Velez Sarsfield - Central Córdoba | Velez Sarsfield",
     "MARKET_ID": 637513358483462,
     "MARKET_NAME": "Match Result",
@@ -252,7 +252,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975686905871V2",
+    "SELECTION_ID": 638975686905871,
     "SELECTION_DESCRIPTION": "Europa Conference League | Mlada Boleslav - Jagiellonia Bialystok | Jagiellonia Bialystok",
     "MARKET_ID": 638975686918161,
     "MARKET_NAME": "Match Result",
@@ -261,7 +261,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631386436677767V2",
+    "SELECTION_ID": 631386436677767,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Over 1.5",
     "MARKET_ID": 631386435538974,
     "MARKET_NAME": "Goal Total 1.5",
@@ -270,7 +270,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639063021637887V2",
+    "SELECTION_ID": 639063021637887,
     "SELECTION_DESCRIPTION": "Europa League | FC Viktoria Plzen - Manchester United | Yes",
     "MARKET_ID": 639063020298303,
     "MARKET_NAME": "Both Teams to Score",
@@ -279,7 +279,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380977598470V2",
+    "SELECTION_ID": 631380977598470,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Draw or Manchester City",
     "MARKET_ID": 631380976619522,
     "MARKET_NAME": "Double Chance",
@@ -288,7 +288,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "632071075004416V2",
+    "SELECTION_ID": 632071075004416,
     "SELECTION_DESCRIPTION": "Champions League | Atletico Madrid - Slovan Bratislava | Over 2.5",
     "MARKET_ID": 632071074652160,
     "MARKET_NAME": "Goal Total 2.5",
@@ -297,7 +297,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379109052427V2",
+    "SELECTION_ID": 631379109052427,
     "SELECTION_DESCRIPTION": "Champions League | Arsenal - Monaco | Arsenal",
     "MARKET_ID": 631379108986895,
     "MARKET_NAME": "Match Result",
@@ -306,7 +306,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "635016912781321V2",
+    "SELECTION_ID": 635016912781321,
     "SELECTION_DESCRIPTION": "French Ligue 1 | Rennes - Angers | Rennes",
     "MARKET_ID": 635016912961543,
     "MARKET_NAME": "Match Result",
@@ -315,7 +315,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641249301540969V2",
+    "SELECTION_ID": 641249301540969,
     "SELECTION_DESCRIPTION": "Europa League | Olympiakos - Twente | Ayoub El Kaabi",
     "MARKET_ID": 641249301676034,
     "MARKET_NAME": "Goalscorer",
@@ -324,7 +324,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976235229210V2",
+    "SELECTION_ID": 638976235229210,
     "SELECTION_DESCRIPTION": "Europa League | Malmö FF - Galatasaray | Galatasaray",
     "MARKET_ID": 638976235311110,
     "MARKET_NAME": "Match Result",
@@ -333,7 +333,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "637316675878920V2",
+    "SELECTION_ID": 637316675878920,
     "SELECTION_DESCRIPTION": "Europa League | Ajax - Lazio | Ajax or draw",
     "MARKET_ID": 637316675981312,
     "MARKET_NAME": "Double Chance",
@@ -342,7 +342,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381416083458V2",
+    "SELECTION_ID": 631381416083458,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Over 1.5",
     "MARKET_ID": 631381415731201,
     "MARKET_NAME": "Goal Total 1.5",
@@ -351,7 +351,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380983959559V2",
+    "SELECTION_ID": 631380983959559,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | FC Barcelona",
     "MARKET_ID": 631380984070146,
     "MARKET_NAME": "Match Result",
@@ -360,7 +360,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "635014291410955V2",
+    "SELECTION_ID": 635014291410955,
     "SELECTION_DESCRIPTION": "Spanish Liga Primera | Rayo Vallecano - Real Madrid | Real Madrid",
     "MARKET_ID": 635014291521540,
     "MARKET_NAME": "Match Result",
@@ -369,7 +369,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640147677151546V2",
+    "SELECTION_ID": 640147677151546,
     "SELECTION_DESCRIPTION": "English Championship | Hull - Watford | Yes",
     "MARKET_ID": 640147677032507,
     "MARKET_NAME": "Both Teams to Score",
@@ -378,7 +378,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640268119658501V2",
+    "SELECTION_ID": 640268119658501,
     "SELECTION_DESCRIPTION": "Cypriot Division 1 | Anorthosis Famagusta - Omonia Aradippou | Anorthosis Famagusta",
     "MARKET_ID": 640268119650306,
     "MARKET_NAME": "Match Result",
@@ -387,7 +387,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379096326155V2",
+    "SELECTION_ID": 631379096326155,
     "SELECTION_DESCRIPTION": "Champions League | Salzburg - Paris Saint-Germain | Paris Saint-Germain",
     "MARKET_ID": 631379095420932,
     "MARKET_NAME": "Match Result",
@@ -396,7 +396,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379096326150V2",
+    "SELECTION_ID": 631379096326150,
     "SELECTION_DESCRIPTION": "Champions League | Salzburg - Paris Saint-Germain | Draw or Paris Saint-Germain",
     "MARKET_ID": 631379095420930,
     "MARKET_NAME": "Double Chance",
@@ -405,7 +405,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975950741515V2",
+    "SELECTION_ID": 638975950741515,
     "SELECTION_DESCRIPTION": "Europa League | Hoffenheim - FCSB | Hoffenheim",
     "MARKET_ID": 638975951056898,
     "MARKET_NAME": "Match Result",
@@ -414,7 +414,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976669433863V2",
+    "SELECTION_ID": 638976669433863,
     "SELECTION_DESCRIPTION": "Europa Conference League | Astana - Chelsea | Chelsea",
     "MARKET_ID": 638976669306882,
     "MARKET_NAME": "Match Result",
@@ -423,7 +423,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381416083458V2",
+    "SELECTION_ID": 631381416083458,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Over 1.5",
     "MARKET_ID": 631381415731201,
     "MARKET_NAME": "Goal Total 1.5",
@@ -432,7 +432,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377197355025V2",
+    "SELECTION_ID": 631377197355025,
     "SELECTION_DESCRIPTION": "Champions League | RB Leipzig - Aston Villa | Draw or Aston Villa",
     "MARKET_ID": 631377197498370,
     "MARKET_NAME": "Double Chance",
@@ -441,7 +441,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975366053899V2",
+    "SELECTION_ID": 638975366053899,
     "SELECTION_DESCRIPTION": "Europa League | Lyon - Eintracht Frankfurt | Eintracht Frankfurt",
     "MARKET_ID": 638975364878348,
     "MARKET_NAME": "Match Result",
@@ -450,7 +450,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379160432646V2",
+    "SELECTION_ID": 631379160432646,
     "SELECTION_DESCRIPTION": "Champions League | Benfica - Bologna | Draw",
     "MARKET_ID": 631379160367106,
     "MARKET_NAME": "Match Result",
@@ -459,7 +459,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "634808419176450V2",
+    "SELECTION_ID": 634808419176450,
     "SELECTION_DESCRIPTION": "Australian A-League | Sydney - Western United FC | Sydney",
     "MARKET_ID": 634808419045376,
     "MARKET_NAME": "Match Result",
@@ -468,7 +468,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377304440840V2",
+    "SELECTION_ID": 631377304440840,
     "SELECTION_DESCRIPTION": "Champions League | Girona - Liverpool | Draw or Liverpool",
     "MARKET_ID": 631377304518662,
     "MARKET_NAME": "Double Chance",
@@ -477,7 +477,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639356946919515V2",
+    "SELECTION_ID": 639356946919515,
     "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | Alvaro Morata",
     "MARKET_ID": 639356945903618,
     "MARKET_NAME": "Goalscorer",
@@ -486,7 +486,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377306361862V2",
+    "SELECTION_ID": 631377306361862,
     "SELECTION_DESCRIPTION": "Champions League | Atalanta - Real Madrid | Draw or Real Madrid",
     "MARKET_ID": 631377306550283,
     "MARKET_NAME": "Double Chance",
@@ -495,7 +495,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381777535244V2",
+    "SELECTION_ID": 631381777535244,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Yes",
     "MARKET_ID": 631381777612868,
     "MARKET_NAME": "Both Teams to Score",
@@ -504,7 +504,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377221603334V2",
+    "SELECTION_ID": 631377221603334,
     "SELECTION_DESCRIPTION": "Champions League | Dinamo Zagreb - Celtic | Draw",
     "MARKET_ID": 631377221472258,
     "MARKET_NAME": "Match Result",
@@ -513,7 +513,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641677868183552V2",
+    "SELECTION_ID": 641677868183552,
     "SELECTION_DESCRIPTION": "Champions League | Benfica - Bologna | Kerem Akturkoglu or substitute",
     "MARKET_ID": 641668499030016,
     "MARKET_NAME": "Goalscorer (Supersub)",
@@ -522,7 +522,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381115920717V2",
+    "SELECTION_ID": 631381115920717,
     "SELECTION_DESCRIPTION": "Champions League | Arsenal - Monaco | Over 1.5",
     "MARKET_ID": 631381116010591,
     "MARKET_NAME": "Goal Total 1.5- First half",
@@ -531,7 +531,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379160432647V2",
+    "SELECTION_ID": 631379160432647,
     "SELECTION_DESCRIPTION": "Champions League | Benfica - Bologna | Bologna",
     "MARKET_ID": 631379160367106,
     "MARKET_NAME": "Match Result",
@@ -540,7 +540,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639072488309017V2",
+    "SELECTION_ID": 639072488309017,
     "SELECTION_DESCRIPTION": "Europa Conference League | HJK Helsinki - Molde | HJK Helsinki or Molde",
     "MARKET_ID": 639072486842440,
     "MARKET_NAME": "Double Chance",
@@ -549,7 +549,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631378365788293V2",
+    "SELECTION_ID": 631378365788293,
     "SELECTION_DESCRIPTION": "Champions League | Brest - PSV Eindhoven | Over 0.5",
     "MARKET_ID": 631378364649501,
     "MARKET_NAME": "Goal Total 0.5",
@@ -558,7 +558,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "637407974215986V2",
+    "SELECTION_ID": 637407974215986,
     "SELECTION_DESCRIPTION": "Dutch Eredivisie | Feyenoord - Heracles | Feyenoord",
     "MARKET_ID": 637407974342722,
     "MARKET_NAME": "Match Result",
@@ -567,7 +567,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379109052428V2",
+    "SELECTION_ID": 631379109052428,
     "SELECTION_DESCRIPTION": "Champions League | Arsenal - Monaco | Draw",
     "MARKET_ID": 631379108986895,
     "MARKET_NAME": "Match Result",
@@ -576,7 +576,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641245230661753V2",
+    "SELECTION_ID": 641245230661753,
     "SELECTION_DESCRIPTION": "Europa League | Malmö FF - Galatasaray | Victor Osimhen",
     "MARKET_ID": 641245230104578,
     "MARKET_NAME": "Goalscorer",
@@ -585,7 +585,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "632071204950138V2",
+    "SELECTION_ID": 632071204950138,
     "SELECTION_DESCRIPTION": "Champions League | Atletico Madrid - Slovan Bratislava | Over 1.5",
     "MARKET_ID": 632071203803165,
     "MARKET_NAME": "Goal Total 1.5",
@@ -594,7 +594,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "637316675878927V2",
+    "SELECTION_ID": 637316675878927,
     "SELECTION_DESCRIPTION": "Europa League | Ajax - Lazio | Lazio",
     "MARKET_ID": 637316675981314,
     "MARKET_NAME": "Match Result",
@@ -603,7 +603,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380983959558V2",
+    "SELECTION_ID": 631380983959558,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Draw",
     "MARKET_ID": 631380984070146,
     "MARKET_NAME": "Match Result",
@@ -612,7 +612,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377200627721V2",
+    "SELECTION_ID": 631377200627721,
     "SELECTION_DESCRIPTION": "Champions League | Brest - PSV Eindhoven | Brest",
     "MARKET_ID": 631377200697359,
     "MARKET_NAME": "Match Result",
@@ -621,7 +621,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639074487816437V2",
+    "SELECTION_ID": 639074487816437,
     "SELECTION_DESCRIPTION": "Europa Conference League | FC Petrocub - Betis | Yes",
     "MARKET_ID": 639074487525434,
     "MARKET_NAME": "Both Teams to Score",
@@ -630,7 +630,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641761321943042V2",
+    "SELECTION_ID": 641761321943042,
     "SELECTION_DESCRIPTION": "Spanish Liga Segunda | Sporting Gijon - Racing Ferrol | Over 1.5",
     "MARKET_ID": 641761322434561,
     "MARKET_NAME": "Goal Total 1.5",
@@ -639,7 +639,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379899744367V2",
+    "SELECTION_ID": 631379899744367,
     "SELECTION_DESCRIPTION": "Champions League | Atalanta - Real Madrid | Real Madrid (2)",
     "MARKET_ID": 631379898630165,
     "MARKET_NAME": "Handicap -2",
@@ -648,7 +648,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "635014291410955V2",
+    "SELECTION_ID": 635014291410955,
     "SELECTION_DESCRIPTION": "Spanish Liga Primera | Rayo Vallecano - Real Madrid | Real Madrid",
     "MARKET_ID": 635014291521540,
     "MARKET_NAME": "Match Result",
@@ -657,7 +657,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975859515401V2",
+    "SELECTION_ID": 638975859515401,
     "SELECTION_DESCRIPTION": "Europa League | Porto - FC Midtjylland | Porto or Midtjylland",
     "MARKET_ID": 638975859830784,
     "MARKET_NAME": "Double Chance",
@@ -666,7 +666,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640104392982531V2",
+    "SELECTION_ID": 640104392982531,
     "SELECTION_DESCRIPTION": "English Championship | Cardiff - Preston North End | Cardiff",
     "MARKET_ID": 640104392896513,
     "MARKET_NAME": "Match Result",
@@ -675,7 +675,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639057384517887V2",
+    "SELECTION_ID": 639057384517887,
     "SELECTION_DESCRIPTION": "Europa League | Ludogorets Razgrad - AZ | Yes",
     "MARKET_ID": 639057384202303,
     "MARKET_NAME": "Both Teams to Score",
@@ -684,7 +684,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377304440845V2",
+    "SELECTION_ID": 631377304440845,
     "SELECTION_DESCRIPTION": "Champions League | Girona - Liverpool | Liverpool",
     "MARKET_ID": 631377304518664,
     "MARKET_NAME": "Match Result",
@@ -693,7 +693,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641806129999894V2",
+    "SELECTION_ID": 641806129999894,
     "SELECTION_DESCRIPTION": "Champions League | Club Brugge - Sporting Lisbon | No",
     "MARKET_ID": 641806128644108,
     "MARKET_NAME": "Goal by Header in the Match",
@@ -702,7 +702,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631359425171465V2",
+    "SELECTION_ID": 631359425171465,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Feyenoord",
     "MARKET_ID": 631359425040388,
     "MARKET_NAME": "Match Result",
@@ -711,7 +711,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641004352274440V2",
+    "SELECTION_ID": 641004352274440,
     "SELECTION_DESCRIPTION": "German Bundesliga 2 | Schalke 04 - Fortuna Dusseldorf | Over 2.5",
     "MARKET_ID": 641004351922177,
     "MARKET_NAME": "Goal Total 2.5",
@@ -720,7 +720,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379096326155V2",
+    "SELECTION_ID": 631379096326155,
     "SELECTION_DESCRIPTION": "Champions League | Salzburg - Paris Saint-Germain | Paris Saint-Germain",
     "MARKET_ID": 631379095420932,
     "MARKET_NAME": "Match Result",
@@ -729,7 +729,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380983959558V2",
+    "SELECTION_ID": 631380983959558,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Draw",
     "MARKET_ID": 631380984070146,
     "MARKET_NAME": "Match Result",
@@ -738,7 +738,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975279976463V2",
+    "SELECTION_ID": 638975279976463,
     "SELECTION_DESCRIPTION": "Europa Conference League | Vikingur Reykjavik - Djurgardens | Djurgardens",
     "MARKET_ID": 638975280058376,
     "MARKET_NAME": "Match Result",
@@ -747,7 +747,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "634068795797508V2",
+    "SELECTION_ID": 634068795797508,
     "SELECTION_DESCRIPTION": "EFL Cup | Southampton - Liverpool | Liverpool",
     "MARKET_ID": 634068795478016,
     "MARKET_NAME": "Match Result",
@@ -756,7 +756,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639070640300034V2",
+    "SELECTION_ID": 639070640300034,
     "SELECTION_DESCRIPTION": "Europa Conference League | Fiorentina - LASK Linz | Over 1.5",
     "MARKET_ID": 639070640615425,
     "MARKET_NAME": "Goal Total 1.5",
@@ -765,7 +765,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "634574084538377V2",
+    "SELECTION_ID": 634574084538377,
     "SELECTION_DESCRIPTION": "German Bundesliga | Augsburg - Bayer Leverkusen | Bayer Leverkusen",
     "MARKET_ID": 634574084329475,
     "MARKET_NAME": "Match Result",
@@ -774,7 +774,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639032008032501V2",
+    "SELECTION_ID": 639032008032501,
     "SELECTION_DESCRIPTION": "Europa League | Lyon - Eintracht Frankfurt | Yes",
     "MARKET_ID": 639032006971450,
     "MARKET_NAME": "Both Teams to Score",
@@ -783,7 +783,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379096326155V2",
+    "SELECTION_ID": 631379096326155,
     "SELECTION_DESCRIPTION": "Champions League | Salzburg - Paris Saint-Germain | Paris Saint-Germain",
     "MARKET_ID": 631379095420932,
     "MARKET_NAME": "Match Result",
@@ -792,7 +792,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639065038049531V2",
+    "SELECTION_ID": 639065038049531,
     "SELECTION_DESCRIPTION": "Europa League | Ajax - Lazio | Yes",
     "MARKET_ID": 639065037758530,
     "MARKET_NAME": "Both Teams to Score",
@@ -801,7 +801,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976900751369V2",
+    "SELECTION_ID": 638976900751369,
     "SELECTION_DESCRIPTION": "Europa League | Roma - Sporting Braga | Roma or Braga",
     "MARKET_ID": 638976901066758,
     "MARKET_NAME": "Double Chance",
@@ -810,7 +810,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639275840655611V2",
+    "SELECTION_ID": 639275840655611,
     "SELECTION_DESCRIPTION": "Europa League | Rangers - Tottenham | Yes",
     "MARKET_ID": 639275840737341,
     "MARKET_NAME": "Both Teams to Score",
@@ -819,7 +819,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379120443401V2",
+    "SELECTION_ID": 631379120443401,
     "SELECTION_DESCRIPTION": "Champions League | Shakhtar Donetsk - Bayern Munich | Bayern Munich",
     "MARKET_ID": 631379120586758,
     "MARKET_NAME": "Match Result",
@@ -828,7 +828,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "632070859776009V2",
+    "SELECTION_ID": 632070859776009,
     "SELECTION_DESCRIPTION": "Champions League | Atletico Madrid - Slovan Bratislava | Atletico Madrid",
     "MARKET_ID": 632070859866116,
     "MARKET_NAME": "Match Result",
@@ -837,7 +837,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640255919288327V2",
+    "SELECTION_ID": 640255919288327,
     "SELECTION_DESCRIPTION": "Eng. Premier League | Leicester - Wolverhampton | Wolverhampton",
     "MARKET_ID": 640255919464450,
     "MARKET_NAME": "Match Result",
@@ -846,7 +846,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976804282375V2",
+    "SELECTION_ID": 638976804282375,
     "SELECTION_DESCRIPTION": "Europa League | Fenerbahce - Athletic Bilbao | Athletic Bilbao",
     "MARKET_ID": 638976803549192,
     "MARKET_NAME": "Match Result",
@@ -855,7 +855,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639064881926144V2",
+    "SELECTION_ID": 639064881926144,
     "SELECTION_DESCRIPTION": "Europa League | Ajax - Lazio | Over 2.5",
     "MARKET_ID": 639064881520640,
     "MARKET_NAME": "Goal Total 2.5",
@@ -864,7 +864,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381777535055V2",
+    "SELECTION_ID": 631381777535055,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Over 0.5",
     "MARKET_ID": 631381777612812,
     "MARKET_NAME": "Goal Total 0.5 - home",
@@ -873,7 +873,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975270215693V2",
+    "SELECTION_ID": 638975270215693,
     "SELECTION_DESCRIPTION": "Europa Conference League | Pafos FC - NK Celje | Pafos FC",
     "MARKET_ID": 638975270531082,
     "MARKET_NAME": "Match Result",
@@ -882,7 +882,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639062903181326V2",
+    "SELECTION_ID": 639062903181326,
     "SELECTION_DESCRIPTION": "Europa League | Union Saint-Gilloise - Nice | Nice",
     "MARKET_ID": 639062903275526,
     "MARKET_NAME": "Match Result",
@@ -891,7 +891,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379160432647V2",
+    "SELECTION_ID": 631379160432647,
     "SELECTION_DESCRIPTION": "Champions League | Benfica - Bologna | Bologna",
     "MARKET_ID": 631379160367106,
     "MARKET_NAME": "Match Result",
@@ -900,7 +900,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381777535055V2",
+    "SELECTION_ID": 631381777535055,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Over 0.5",
     "MARKET_ID": 631381777612812,
     "MARKET_NAME": "Goal Total 0.5 - home",
@@ -909,7 +909,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976333787145V2",
+    "SELECTION_ID": 638976333787145,
     "SELECTION_DESCRIPTION": "Europa Conference League | Fiorentina - LASK Linz | Fiorentina or LASK Linz",
     "MARKET_ID": 638976333795336,
     "MARKET_NAME": "Double Chance",
@@ -918,7 +918,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "642873018384395V2",
+    "SELECTION_ID": 642873018384395,
     "SELECTION_DESCRIPTION": "Serbian Super Liga | FK Novi Pazar - Red Star Belgrade | Red Star Belgrade",
     "MARKET_ID": 642873018142724,
     "MARKET_NAME": "Match Result",
@@ -927,7 +927,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377306406923V2",
+    "SELECTION_ID": 631377306406923,
     "SELECTION_DESCRIPTION": "Champions League | Atalanta - Real Madrid | Real Madrid",
     "MARKET_ID": 631377306550285,
     "MARKET_NAME": "Match Result",
@@ -936,7 +936,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975372976137V2",
+    "SELECTION_ID": 638975372976137,
     "SELECTION_DESCRIPTION": "Europa Conference League | FC Noah - APOEL Nicosia | APOEL Nicosia",
     "MARKET_ID": 638975373299720,
     "MARKET_NAME": "Match Result",
@@ -945,7 +945,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "642266650034192V2",
+    "SELECTION_ID": 642266650034192,
     "SELECTION_DESCRIPTION": "Argentinian Primera | Velez Sarsfield - CA Huracan | Velez Sarsfield or draw",
     "MARKET_ID": 642266649772032,
     "MARKET_NAME": "Double Chance",
@@ -954,7 +954,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641271305740392V2",
+    "SELECTION_ID": 641271305740392,
     "SELECTION_DESCRIPTION": "Europa League | Lyon - Eintracht Frankfurt | Omar Marmoush",
     "MARKET_ID": 641271305781250,
     "MARKET_NAME": "Goalscorer",
@@ -963,7 +963,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639057026953345V2",
+    "SELECTION_ID": 639057026953345,
     "SELECTION_DESCRIPTION": "Europa League | Fenerbahce - Athletic Bilbao | Over 0.5",
     "MARKET_ID": 639057026928666,
     "MARKET_NAME": "Goal Total 0.5",
@@ -972,7 +972,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639031855988756V2",
+    "SELECTION_ID": 639031855988756,
     "SELECTION_DESCRIPTION": "Europa League | Hoffenheim - FCSB | FCSB (2)",
     "MARKET_ID": 639031854813203,
     "MARKET_NAME": "Handicap -2",
@@ -981,7 +981,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631359425171466V2",
+    "SELECTION_ID": 631359425171466,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Draw",
     "MARKET_ID": 631359425040388,
     "MARKET_NAME": "Match Result",
@@ -990,7 +990,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379899744321V2",
+    "SELECTION_ID": 631379899744321,
     "SELECTION_DESCRIPTION": "Champions League | Atalanta - Real Madrid | Over 0.5",
     "MARKET_ID": 631379898630151,
     "MARKET_NAME": "Goal Total 0.5 - away",
@@ -999,7 +999,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641686656299013V2",
+    "SELECTION_ID": 641686656299013,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Over 15.5",
     "MARKET_ID": 641686656299009,
     "MARKET_NAME": "Total Shots 15.5 - away",
@@ -1008,7 +1008,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377197355024V2",
+    "SELECTION_ID": 631377197355024,
     "SELECTION_DESCRIPTION": "Champions League | RB Leipzig - Aston Villa | RB Leipzig or Aston Villa",
     "MARKET_ID": 631377197498370,
     "MARKET_NAME": "Double Chance",
@@ -1017,7 +1017,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639358410764395V2",
+    "SELECTION_ID": 639358410764395,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Raphinha",
     "MARKET_ID": 639358410739714,
     "MARKET_NAME": "Goalscorer",
@@ -1026,7 +1026,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639066796535810V2",
+    "SELECTION_ID": 639066796535810,
     "SELECTION_DESCRIPTION": "Europa League | Real Sociedad - Dynamo Kiev | Over 1.5",
     "MARKET_ID": 639066796544001,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1035,7 +1035,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639066788237314V2",
+    "SELECTION_ID": 639066788237314,
     "SELECTION_DESCRIPTION": "Europa League | Porto - FC Midtjylland | Over 1.5",
     "MARKET_ID": 639066788249601,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1044,7 +1044,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "642617950928900V2",
+    "SELECTION_ID": 642617950928900,
     "SELECTION_DESCRIPTION": "Champions League | Arsenal - Monaco | Chaque équipe cadre 4 tirs ou +",
     "MARKET_ID": 642617950306304,
     "MARKET_NAME": "Bons Plans",
@@ -1053,7 +1053,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639344916742253V2",
+    "SELECTION_ID": 639344916742253,
     "SELECTION_DESCRIPTION": "Champions League | Girona - Liverpool | Mohamed Salah",
     "MARKET_ID": 639344915578882,
     "MARKET_NAME": "Goalscorer",
@@ -1062,7 +1062,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380983959559V2",
+    "SELECTION_ID": 631380983959559,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | FC Barcelona",
     "MARKET_ID": 631380984070146,
     "MARKET_NAME": "Match Result",
@@ -1071,7 +1071,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975270215690V2",
+    "SELECTION_ID": 638975270215690,
     "SELECTION_DESCRIPTION": "Europa Conference League | Pafos FC - NK Celje | Draw or NK Celje",
     "MARKET_ID": 638975270531080,
     "MARKET_NAME": "Double Chance",
@@ -1080,7 +1080,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640199780896773V2",
+    "SELECTION_ID": 640199780896773,
     "SELECTION_DESCRIPTION": "English Championship | Sheffield United - Plymouth Argyle | Sheffield United",
     "MARKET_ID": 640199780909061,
     "MARKET_NAME": "Match Result",
@@ -1089,7 +1089,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "642402662973515V2",
+    "SELECTION_ID": 642402662973515,
     "SELECTION_DESCRIPTION": "Luxembourg Division 1 | US Hostert - Rodange 91 | Over 0.5",
     "MARKET_ID": 642402662621194,
     "MARKET_NAME": "Goal Total 0.5 - home",
@@ -1098,7 +1098,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639346552508538V2",
+    "SELECTION_ID": 639346552508538,
     "SELECTION_DESCRIPTION": "Champions League | Atalanta - Real Madrid | Vinícius Júnior",
     "MARKET_ID": 639346551472130,
     "MARKET_NAME": "Goalscorer",
@@ -1107,7 +1107,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381777535244V2",
+    "SELECTION_ID": 631381777535244,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Yes",
     "MARKET_ID": 631381777612868,
     "MARKET_NAME": "Both Teams to Score",
@@ -1116,7 +1116,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640146477178885V2",
+    "SELECTION_ID": 640146477178885,
     "SELECTION_DESCRIPTION": "English Championship | West Bromwich Albion - Coventry | West Bromwich Albion",
     "MARKET_ID": 640146476265474,
     "MARKET_NAME": "Match Result",
@@ -1125,7 +1125,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631382906806274V2",
+    "SELECTION_ID": 631382906806274,
     "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | Over 1.5",
     "MARKET_ID": 631382907080705,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1134,7 +1134,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640145313677322V2",
+    "SELECTION_ID": 640145313677322,
     "SELECTION_DESCRIPTION": "English Championship | Millwall - Sheffield United | Draw",
     "MARKET_ID": 640145312534532,
     "MARKET_NAME": "Match Result",
@@ -1143,7 +1143,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631383005626632V2",
+    "SELECTION_ID": 631383005626632,
     "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | Yes",
     "MARKET_ID": 631383005454402,
     "MARKET_NAME": "Both Teams to Score",
@@ -1152,7 +1152,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377197355030V2",
+    "SELECTION_ID": 631377197355030,
     "SELECTION_DESCRIPTION": "Champions League | RB Leipzig - Aston Villa | Aston Villa",
     "MARKET_ID": 631377197498372,
     "MARKET_NAME": "Match Result",
@@ -1161,7 +1161,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "637316675878927V2",
+    "SELECTION_ID": 637316675878927,
     "SELECTION_DESCRIPTION": "Europa League | Ajax - Lazio | Lazio",
     "MARKET_ID": 637316675981314,
     "MARKET_NAME": "Match Result",
@@ -1170,7 +1170,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641669779603456V2",
+    "SELECTION_ID": 641669779603456,
     "SELECTION_DESCRIPTION": "Champions League | Atletico Madrid - Slovan Bratislava | Antoine Griezmann or substitute",
     "MARKET_ID": 641668504399878,
     "MARKET_NAME": "Goalscorer (Supersub)",
@@ -1179,7 +1179,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380977598469V2",
+    "SELECTION_ID": 631380977598469,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Juventus or Manchester City",
     "MARKET_ID": 631380976619522,
     "MARKET_NAME": "Double Chance",
@@ -1188,7 +1188,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975366053899V2",
+    "SELECTION_ID": 638975366053899,
     "SELECTION_DESCRIPTION": "Europa League | Lyon - Eintracht Frankfurt | Eintracht Frankfurt",
     "MARKET_ID": 638975364878348,
     "MARKET_NAME": "Match Result",
@@ -1197,7 +1197,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "635010630590471V2",
+    "SELECTION_ID": 635010630590471,
     "SELECTION_DESCRIPTION": "Spanish Liga Primera | Real Valladolid - Valencia | Valencia",
     "MARKET_ID": 635010630955021,
     "MARKET_NAME": "Match Result",
@@ -1206,7 +1206,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381114105989V2",
+    "SELECTION_ID": 631381114105989,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Over 1.5",
     "MARKET_ID": 631381113995293,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1215,7 +1215,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631359425171461V2",
+    "SELECTION_ID": 631359425171461,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Feyenoord or Sparta Prague",
     "MARKET_ID": 631359425040386,
     "MARKET_NAME": "Double Chance",
@@ -1224,7 +1224,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377304440845V2",
+    "SELECTION_ID": 631377304440845,
     "SELECTION_DESCRIPTION": "Champions League | Girona - Liverpool | Liverpool",
     "MARKET_ID": 631377304518664,
     "MARKET_NAME": "Match Result",
@@ -1233,7 +1233,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639076383641729V2",
+    "SELECTION_ID": 639076383641729,
     "SELECTION_DESCRIPTION": "Europa Conference League | The New Saints FC - Panathinaikos | Over 1.5",
     "MARKET_ID": 639076383350810,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1242,7 +1242,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "632071204950126V2",
+    "SELECTION_ID": 632071204950126,
     "SELECTION_DESCRIPTION": "Champions League | Atletico Madrid - Slovan Bratislava | Atletico Madrid (-4)",
     "MARKET_ID": 632071203803161,
     "MARKET_NAME": "Handicap -4",
@@ -1251,7 +1251,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377304440845V2",
+    "SELECTION_ID": 631377304440845,
     "SELECTION_DESCRIPTION": "Champions League | Girona - Liverpool | Liverpool",
     "MARKET_ID": 631377304518664,
     "MARKET_NAME": "Match Result",
@@ -1260,7 +1260,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379109052427V2",
+    "SELECTION_ID": 631379109052427,
     "SELECTION_DESCRIPTION": "Champions League | Arsenal - Monaco | Arsenal",
     "MARKET_ID": 631379108986895,
     "MARKET_NAME": "Match Result",
@@ -1269,7 +1269,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380983959554V2",
+    "SELECTION_ID": 631380983959554,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Draw or FC Barcelona",
     "MARKET_ID": 631380984070144,
     "MARKET_NAME": "Double Chance",
@@ -1278,7 +1278,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "637407542239234V2",
+    "SELECTION_ID": 637407542239234,
     "SELECTION_DESCRIPTION": "Dutch Eredivisie | Heerenveen - PSV Eindhoven | PSV Eindhoven",
     "MARKET_ID": 637407542329344,
     "MARKET_NAME": "Match Result",
@@ -1287,7 +1287,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976095760397V2",
+    "SELECTION_ID": 638976095760397,
     "SELECTION_DESCRIPTION": "Europa League | Slavia Prague - Anderlecht | Slavia Prague",
     "MARKET_ID": 638976095862790,
     "MARKET_NAME": "Match Result",
@@ -1296,7 +1296,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380977598475V2",
+    "SELECTION_ID": 631380977598475,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Manchester City",
     "MARKET_ID": 631380976619524,
     "MARKET_NAME": "Match Result",
@@ -1305,7 +1305,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380977598468V2",
+    "SELECTION_ID": 631380977598468,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Juventus or draw",
     "MARKET_ID": 631380976619522,
     "MARKET_NAME": "Double Chance",
@@ -1314,7 +1314,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379130023946V2",
+    "SELECTION_ID": 631379130023946,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Draw",
     "MARKET_ID": 631379129958406,
     "MARKET_NAME": "Match Result",
@@ -1323,7 +1323,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "642581729161217V2",
+    "SELECTION_ID": 642581729161217,
     "SELECTION_DESCRIPTION": "Europa League | Malmö FF - Galatasaray | Victor Osimhen or substitute",
     "MARKET_ID": 642567196704768,
     "MARKET_NAME": "Goalscorer (Supersub)",
@@ -1332,7 +1332,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377218281481V2",
+    "SELECTION_ID": 631377218281481,
     "SELECTION_DESCRIPTION": "Champions League | Club Brugge - Sporting Lisbon | Club Brugge",
     "MARKET_ID": 631377218633734,
     "MARKET_NAME": "Match Result",
@@ -1341,7 +1341,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641261810139233V2",
+    "SELECTION_ID": 641261810139233,
     "SELECTION_DESCRIPTION": "Europa League | Hoffenheim - FCSB | Andrej Kramaric",
     "MARKET_ID": 641261809696770,
     "MARKET_NAME": "Goalscorer",
@@ -1350,7 +1350,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640145313677318V2",
+    "SELECTION_ID": 640145313677318,
     "SELECTION_DESCRIPTION": "English Championship | Millwall - Sheffield United | Draw or Sheffield United",
     "MARKET_ID": 640145312534530,
     "MARKET_NAME": "Double Chance",
@@ -1359,7 +1359,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "635017343762443V2",
+    "SELECTION_ID": 635017343762443,
     "SELECTION_DESCRIPTION": "French Ligue 1 | Paris Saint-Germain - Lyon | Paris Saint-Germain",
     "MARKET_ID": 635017343696900,
     "MARKET_NAME": "Match Result",
@@ -1368,7 +1368,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640880543711237V2",
+    "SELECTION_ID": 640880543711237,
     "SELECTION_DESCRIPTION": "German Bundesliga | Bayern Munich - RB Leipzig | Bayern Munich",
     "MARKET_ID": 640880543694850,
     "MARKET_NAME": "Match Result",
@@ -1377,7 +1377,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976141987853V2",
+    "SELECTION_ID": 638976141987853,
     "SELECTION_DESCRIPTION": "Europa League | Olympiakos - Twente | Olympiakos",
     "MARKET_ID": 638976141582353,
     "MARKET_NAME": "Match Result",
@@ -1386,7 +1386,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381416083458V2",
+    "SELECTION_ID": 631381416083458,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Over 1.5",
     "MARKET_ID": 631381415731201,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1395,7 +1395,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976669433863V2",
+    "SELECTION_ID": 638976669433863,
     "SELECTION_DESCRIPTION": "Europa Conference League | Astana - Chelsea | Chelsea",
     "MARKET_ID": 638976669306882,
     "MARKET_NAME": "Match Result",
@@ -1404,7 +1404,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976610713610V2",
+    "SELECTION_ID": 638976610713610,
     "SELECTION_DESCRIPTION": "Europa League | FC Viktoria Plzen - Manchester United | Draw or Manchester United",
     "MARKET_ID": 638976610586628,
     "MARKET_NAME": "Double Chance",
@@ -1413,7 +1413,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639356003323943V2",
+    "SELECTION_ID": 639356003323943,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Jonathan David",
     "MARKET_ID": 639356002287618,
     "MARKET_NAME": "Goalscorer",
@@ -1422,7 +1422,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381114106206V2",
+    "SELECTION_ID": 631381114106206,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Feyenoord / Draw & Over 1.5",
     "MARKET_ID": 631381113995366,
     "MARKET_NAME": "Double Chance & 1.5",
@@ -1431,7 +1431,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976669433863V2",
+    "SELECTION_ID": 638976669433863,
     "SELECTION_DESCRIPTION": "Europa Conference League | Astana - Chelsea | Chelsea",
     "MARKET_ID": 638976669306882,
     "MARKET_NAME": "Match Result",
@@ -1440,7 +1440,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639057384517763V2",
+    "SELECTION_ID": 639057384517763,
     "SELECTION_DESCRIPTION": "Europa League | Ludogorets Razgrad - AZ | Over 1.5",
     "MARKET_ID": 639057384202267,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1449,7 +1449,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975859515400V2",
+    "SELECTION_ID": 638975859515400,
     "SELECTION_DESCRIPTION": "Europa League | Porto - FC Midtjylland | Porto or draw",
     "MARKET_ID": 638975859830784,
     "MARKET_NAME": "Double Chance",
@@ -1458,7 +1458,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379130023945V2",
+    "SELECTION_ID": 631379130023945,
     "SELECTION_DESCRIPTION": "Champions League | Lille - Sturm Graz | Lille",
     "MARKET_ID": 631379129958406,
     "MARKET_NAME": "Match Result",
@@ -1467,7 +1467,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381471305730V2",
+    "SELECTION_ID": 631381471305730,
     "SELECTION_DESCRIPTION": "Champions League | Shakhtar Donetsk - Bayern Munich | Over 1.5",
     "MARKET_ID": 631381471670273,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1476,7 +1476,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975270215688V2",
+    "SELECTION_ID": 638975270215688,
     "SELECTION_DESCRIPTION": "Europa Conference League | Pafos FC - NK Celje | Pafos FC or draw",
     "MARKET_ID": 638975270531080,
     "MARKET_NAME": "Double Chance",
@@ -1485,7 +1485,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638975950741511V2",
+    "SELECTION_ID": 638975950741511,
     "SELECTION_DESCRIPTION": "Europa League | Hoffenheim - FCSB | Hoffenheim or FCSB",
     "MARKET_ID": 638975951056896,
     "MARKET_NAME": "Double Chance",
@@ -1494,7 +1494,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377304440845V2",
+    "SELECTION_ID": 631377304440845,
     "SELECTION_DESCRIPTION": "Champions League | Girona - Liverpool | Liverpool",
     "MARKET_ID": 631377304518664,
     "MARKET_NAME": "Match Result",
@@ -1503,7 +1503,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976610713610V2",
+    "SELECTION_ID": 638976610713610,
     "SELECTION_DESCRIPTION": "Europa League | FC Viktoria Plzen - Manchester United | Draw or Manchester United",
     "MARKET_ID": 638976610586628,
     "MARKET_NAME": "Double Chance",
@@ -1512,7 +1512,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381621506237V2",
+    "SELECTION_ID": 631381621506237,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Draw or Manchester City",
     "MARKET_ID": 631381620248621,
     "MARKET_NAME": "Double Chance - First half",
@@ -1521,7 +1521,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631379096326155V2",
+    "SELECTION_ID": 631379096326155,
     "SELECTION_DESCRIPTION": "Champions League | Salzburg - Paris Saint-Germain | Paris Saint-Germain",
     "MARKET_ID": 631379095420932,
     "MARKET_NAME": "Match Result",
@@ -1530,7 +1530,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377411301383V2",
+    "SELECTION_ID": 631377411301383,
     "SELECTION_DESCRIPTION": "Champions League | Bayer Leverkusen - Inter Milan | B. Leverkusen or Inter",
     "MARKET_ID": 631377411391492,
     "MARKET_NAME": "Double Chance",
@@ -1539,7 +1539,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639066777346053V2",
+    "SELECTION_ID": 639066777346053,
     "SELECTION_DESCRIPTION": "Europa League | Maccabi Tel-Aviv - Rigas Futbola Skola | Under 3.5",
     "MARKET_ID": 639066777661442,
     "MARKET_NAME": "Goal Total 3.5",
@@ -1548,7 +1548,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381011025923V2",
+    "SELECTION_ID": 631381011025923,
     "SELECTION_DESCRIPTION": "Champions League | Stuttgart - Young Boys | Stuttgart or Young Boys",
     "MARKET_ID": 631381011103748,
     "MARKET_NAME": "Double Chance",
@@ -1557,7 +1557,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377306406923V2",
+    "SELECTION_ID": 631377306406923,
     "SELECTION_DESCRIPTION": "Champions League | Atalanta - Real Madrid | Real Madrid",
     "MARKET_ID": 631377306550285,
     "MARKET_NAME": "Match Result",
@@ -1566,7 +1566,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641117529227269V2",
+    "SELECTION_ID": 641117529227269,
     "SELECTION_DESCRIPTION": "Spanish Liga Segunda | Almeria - Mirandes | Almeria",
     "MARKET_ID": 641117528784898,
     "MARKET_NAME": "Match Result",
@@ -1575,7 +1575,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381114105996V2",
+    "SELECTION_ID": 631381114105996,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Under 5.5",
     "MARKET_ID": 631381113995296,
     "MARKET_NAME": "Goal Total 5.5",
@@ -1584,7 +1584,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380977598470V2",
+    "SELECTION_ID": 631380977598470,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Draw or Manchester City",
     "MARKET_ID": 631380976619522,
     "MARKET_NAME": "Double Chance",
@@ -1593,7 +1593,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "635018902888751V2",
+    "SELECTION_ID": 635018902888751,
     "SELECTION_DESCRIPTION": "Spanish Liga Primera | Villarreal - Betis | Yes",
     "MARKET_ID": 635018902978626,
     "MARKET_NAME": "Both Teams to Score",
@@ -1602,7 +1602,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381621506113V2",
+    "SELECTION_ID": 631381621506113,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Over 0.5",
     "MARKET_ID": 631381620248583,
     "MARKET_NAME": "Goal Total 0.5 - away",
@@ -1611,7 +1611,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641133675806731V2",
+    "SELECTION_ID": 641133675806731,
     "SELECTION_DESCRIPTION": "Greek Super League | PAOK - Atromitos | PAOK",
     "MARKET_ID": 641133676298244,
     "MARKET_NAME": "Match Result",
@@ -1620,7 +1620,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377306406923V2",
+    "SELECTION_ID": 631377306406923,
     "SELECTION_DESCRIPTION": "Champions League | Atalanta - Real Madrid | Real Madrid",
     "MARKET_ID": 631377306550285,
     "MARKET_NAME": "Match Result",
@@ -1629,7 +1629,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "638976900751373V2",
+    "SELECTION_ID": 638976900751373,
     "SELECTION_DESCRIPTION": "Europa League | Roma - Sporting Braga | Roma",
     "MARKET_ID": 638976901066760,
     "MARKET_NAME": "Match Result",
@@ -1638,7 +1638,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380977598469V2",
+    "SELECTION_ID": 631380977598469,
     "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Juventus or Manchester City",
     "MARKET_ID": 631380976619522,
     "MARKET_NAME": "Double Chance",
@@ -1647,7 +1647,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641352419737666V2",
+    "SELECTION_ID": 641352419737666,
     "SELECTION_DESCRIPTION": "Spanish Liga Primera | Villarreal - Rayo Vallecano | Over 0.5",
     "MARKET_ID": 641352419450890,
     "MARKET_NAME": "Goal Total 0.5 - home",
@@ -1656,7 +1656,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631381114105991V2",
+    "SELECTION_ID": 631381114105991,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Over 2.5",
     "MARKET_ID": 631381113995294,
     "MARKET_NAME": "Goal Total 2.5",
@@ -1665,7 +1665,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "635014351179785V2",
+    "SELECTION_ID": 635014351179785,
     "SELECTION_DESCRIPTION": "Spanish Liga Primera | FC Barcelona - Leganes | FC Barcelona",
     "MARKET_ID": 635014349889544,
     "MARKET_NAME": "Match Result",
@@ -1674,7 +1674,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631386436677767V2",
+    "SELECTION_ID": 631386436677767,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Over 1.5",
     "MARKET_ID": 631386435538974,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1683,7 +1683,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "642632087023617V2",
+    "SELECTION_ID": 642632087023617,
     "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | Le duo A. Morata, R. Leão inscrit 2 buts ou +",
     "MARKET_ID": 642632087158784,
     "MARKET_NAME": "Bons Plans",
@@ -1692,7 +1692,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "635017489567756V2",
+    "SELECTION_ID": 635017489567756,
     "SELECTION_DESCRIPTION": "French Ligue 1 | Montpellier - Nice | Draw",
     "MARKET_ID": 635017489678342,
     "MARKET_NAME": "Match Result",
@@ -1701,7 +1701,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640271116570629V2",
+    "SELECTION_ID": 640271116570629,
     "SELECTION_DESCRIPTION": "Italian Serie B | Cesena - Cosenza | Cesena",
     "MARKET_ID": 640271116566530,
     "MARKET_NAME": "Match Result",
@@ -1710,7 +1710,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631380995440640V2",
+    "SELECTION_ID": 631380995440640,
     "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | Milan or draw",
     "MARKET_ID": 631380995252224,
     "MARKET_NAME": "Double Chance",
@@ -1719,7 +1719,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639070652157954V2",
+    "SELECTION_ID": 639070652157954,
     "SELECTION_DESCRIPTION": "Europa Conference League | Astana - Chelsea | Over 1.5",
     "MARKET_ID": 639070652125185,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1728,7 +1728,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631386436677765V2",
+    "SELECTION_ID": 631386436677765,
     "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Over 0.5",
     "MARKET_ID": 631386435538973,
     "MARKET_NAME": "Goal Total 0.5",
@@ -1737,7 +1737,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631359425171460V2",
+    "SELECTION_ID": 631359425171460,
     "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Feyenoord or draw",
     "MARKET_ID": 631359425040386,
     "MARKET_NAME": "Double Chance",
@@ -1746,7 +1746,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "643156590776342V2",
+    "SELECTION_ID": 643156590776342,
     "SELECTION_DESCRIPTION": "Champions League | Club Brugge - Sporting Lisbon | No Goal",
     "MARKET_ID": 643156590034945,
     "MARKET_NAME": "Next Goal in regular time - Goal 4",
@@ -1755,7 +1755,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639070597726214V2",
+    "SELECTION_ID": 639070597726214,
     "SELECTION_DESCRIPTION": "Europa Conference League | Copenhagen - Heart of Midlothian | Over 1.5",
     "MARKET_ID": 639070597632001,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1764,7 +1764,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "631377306406923V2",
+    "SELECTION_ID": 631377306406923,
     "SELECTION_DESCRIPTION": "Champions League | Atalanta - Real Madrid | Real Madrid",
     "MARKET_ID": 631377306550285,
     "MARKET_NAME": "Match Result",
@@ -1773,7 +1773,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "639057384517763V2",
+    "SELECTION_ID": 639057384517763,
     "SELECTION_DESCRIPTION": "Europa League | Ludogorets Razgrad - AZ | Over 1.5",
     "MARKET_ID": 639057384202267,
     "MARKET_NAME": "Goal Total 1.5",
@@ -1782,7 +1782,7 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "641806238924807V2",
+    "SELECTION_ID": 641806238924807,
     "SELECTION_DESCRIPTION": "Champions League W. | Vålerenga W. - Arsenal W. | Arsenal W.",
     "MARKET_ID": 641806239051778,
     "MARKET_NAME": "Match Result",
@@ -1791,12 +1791,129 @@
     "SPORT_ID": "FOOTBALL"
   },
   {
-    "SELECTION_ID": "640114341470217V2",
+    "SELECTION_ID": 640114341470217,
     "SELECTION_DESCRIPTION": "English Championship | Leeds - Middlesbrough | Leeds",
     "MARKET_ID": 640114341605382,
     "MARKET_NAME": "Match Result",
     "MATCH_ID": 638557699231744,
     "ODDS": 1.62,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894679767986199,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894679767126058,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 899186209284097,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 899186208231424,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894679767986194,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894679767126056,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 902544655601667,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 902544252948480,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 902277544501354,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 902277543448584,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894681716240498,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894681715380248,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894681716429076,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894681715380257,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894681716428922,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894681715191824,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894681716428875,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894681715380229,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894681716429008,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894681715191892,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894681716429053,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894681715380256,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894681716240491,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894681715380246,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
+    "SPORT_ID": "FOOTBALL"
+  },
+  {
+    "SELECTION_ID": 894681716428816,
+    "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | TBD",
+    "MARKET_ID": 894681715380226,
+    "MARKET_NAME": "TBD",
+    "MATCH_ID": 894679767126016,
+    "ODDS": 1.0,
     "SPORT_ID": "FOOTBALL"
   }
 ]

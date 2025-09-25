@@ -97,7 +97,7 @@ public class BedrockService : IBedrockService
                 ```json
                 [
                     {
-                      "SELECTION_ID": "641831799014065V2",
+                      "SELECTION_ID": 641831799014065,
                       "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Igor Paixão / A. H. Moussa",
                       "MARKET_ID": 641831798276098,
                       "MARKET_NAME": "Either Player to Score",
@@ -106,7 +106,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "638976494321684V2",
+                      "SELECTION_ID": 638976494321684,
                       "SELECTION_DESCRIPTION": "Europa League | Ludogorets Razgrad - AZ | Ludogorets Razgrad",
                       "MARKET_ID": 638976494309378,
                       "MARKET_NAME": "Match Result",
@@ -115,7 +115,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "641676457848832V2",
+                      "SELECTION_ID": 641676457848832,
                       "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Erling Haaland or substitute",
                       "MARKET_ID": 641669418631170,
                       "MARKET_NAME": "Goalscorer (Supersub)",
@@ -124,7 +124,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631380995440641V2",
+                      "SELECTION_ID": 631380995440641,
                       "SELECTION_DESCRIPTION": "Champions League | Milan - Red Star Belgrade | Milan or Red Star Belgrade",
                       "MARKET_ID": 631380995252224,
                       "MARKET_NAME": "Double Chance",
@@ -133,7 +133,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "639358410764378V2",
+                      "SELECTION_ID": 639358410764378,
                       "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Robert Lewandowski",
                       "MARKET_ID": 639358410739714,
                       "MARKET_NAME": "Goalscorer",
@@ -142,7 +142,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631381115920513V2",
+                      "SELECTION_ID": 631381115920513,
                       "SELECTION_DESCRIPTION": "Champions League | Arsenal - Monaco | Over 0.5",
                       "MARKET_ID": 631381116010523,
                       "MARKET_NAME": "Goal Total 0.5",
@@ -151,7 +151,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631380983959559V2",
+                      "SELECTION_ID": 631380983959559,
                       "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | FC Barcelona",
                       "MARKET_ID": 631380984070146,
                       "MARKET_NAME": "Match Result",
@@ -160,7 +160,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631381114106134V2",
+                      "SELECTION_ID": 631381114106134,
                       "SELECTION_DESCRIPTION": "Champions League | Feyenoord - Sparta Prague | Yes",
                       "MARKET_ID": 631381113995337,
                       "MARKET_NAME": "Both Teams to Score",
@@ -169,7 +169,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631386436677713V2",
+                      "SELECTION_ID": 631386436677713,
                       "SELECTION_DESCRIPTION": "Champions League | Borussia Dortmund - FC Barcelona | Over 0.5",
                       "MARKET_ID": 631386435538957,
                       "MARKET_NAME": "Goal Total 0.5 - home",
@@ -178,7 +178,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "638975950741515V2",
+                      "SELECTION_ID": 638975950741515,
                       "SELECTION_DESCRIPTION": "Europa League | Hoffenheim - FCSB | Hoffenheim",
                       "MARKET_ID": 638975951056898,
                       "MARKET_NAME": "Match Result",
@@ -187,7 +187,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "638976494321685V2",
+                      "SELECTION_ID": 638976494321685,
                       "SELECTION_DESCRIPTION": "Europa League | Ludogorets Razgrad - AZ | Draw",
                       "MARKET_ID": 638976494309378,
                       "MARKET_NAME": "Match Result",
@@ -196,7 +196,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "632071204950140V2",
+                      "SELECTION_ID": 632071204950140,
                       "SELECTION_DESCRIPTION": "Champions League | Atletico Madrid - Slovan Bratislava | Over 3.5",
                       "MARKET_ID": 632071203803166,
                       "MARKET_NAME": "Goal Total 3.5",
@@ -205,7 +205,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "633547404648454V2",
+                      "SELECTION_ID": 633547404648454,
                       "SELECTION_DESCRIPTION": "EFL Cup | Tottenham - Manchester United | Manchester United",
                       "MARKET_ID": 633547404820482,
                       "MARKET_NAME": "Match Result",
@@ -214,7 +214,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "633547404648452V2",
+                      "SELECTION_ID": 633547404648452,
                       "SELECTION_DESCRIPTION": "EFL Cup | Tottenham - Manchester United | Tottenham",
                       "MARKET_ID": 633547404820482,
                       "MARKET_NAME": "Match Result",
@@ -223,7 +223,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "634809535778950V2",
+                      "SELECTION_ID": 634809535778950,
                       "SELECTION_DESCRIPTION": "Australian A-League | Central Coast Mariners - Adelaide United FC | Yes",
                       "MARKET_ID": 634809535815712,
                       "MARKET_NAME": "Both Teams to Score",
@@ -232,7 +232,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631381542785026V2",
+                      "SELECTION_ID": 631381542785026,
                       "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Over 1.5",
                       "MARKET_ID": 631381542862849,
                       "MARKET_NAME": "Goal Total 1.5",
@@ -241,7 +241,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "638976407187474V2",
+                      "SELECTION_ID": 638976407187474,
                       "SELECTION_DESCRIPTION": "Europa Conference League | Dinamo Minsk - Larne | Dinamo Minsk",
                       "MARKET_ID": 638976407195667,
                       "MARKET_NAME": "Match Result",
@@ -250,7 +250,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631380566749317V2",
+                      "SELECTION_ID": 631380566749317,
                       "SELECTION_DESCRIPTION": "Champions League | Benfica - Bologna | Over 1.5",
                       "MARKET_ID": 631380565512221,
                       "MARKET_NAME": "Goal Total 1.5",
@@ -259,7 +259,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631381542785024V2",
+                      "SELECTION_ID": 631381542785024,
                       "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Over 0.5",
                       "MARKET_ID": 631381542862848,
                       "MARKET_NAME": "Goal Total 0.5",
@@ -268,7 +268,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631381415813122V2",
+                      "SELECTION_ID": 631381415813122,
                       "SELECTION_DESCRIPTION": "Champions League | Stuttgart - Young Boys | Over 1.5",
                       "MARKET_ID": 631381415903233,
                       "MARKET_NAME": "Goal Total 1.5",
@@ -277,7 +277,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "631380977598468V2",
+                      "SELECTION_ID": 631380977598468,
                       "SELECTION_DESCRIPTION": "Champions League | Juventus - Manchester City | Juventus or draw",
                       "MARKET_ID": 631380976619522,
                       "MARKET_NAME": "Double Chance",
@@ -286,7 +286,7 @@ public class BedrockService : IBedrockService
                       "SPORT_ID": "FOOTBALL"
                     },
                     {
-                      "SELECTION_ID": "638976141987853V2",
+                      "SELECTION_ID": 638976141987853,
                       "SELECTION_DESCRIPTION": "Europa League | Olympiakos - Twente | Olympiakos",
                       "MARKET_ID": 638976141582353,
                       "MARKET_NAME": "Match Result",
